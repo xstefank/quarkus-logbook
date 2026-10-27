@@ -11,7 +11,7 @@
     <name>Quarkus Logbook - Runtime</name>
 
     <properties>
-        <logbook-bom.version>4.0.4</logbook-bom.version>
+        <logbook-bom.version>4.2.0</logbook-bom.version>
     </properties>
 
     <dependencyManagement>
